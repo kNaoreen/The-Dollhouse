@@ -1,6 +1,8 @@
 # The Dollhouse 🏠
 2D RPG game built for CPSC 427 (Video Game Programming) course at UBC.
+
 Received jury award for **Best Overall Game** and **Best Visuals** during CPSC 427's 2021W1 offering.  
+
 Inspired by games such as The Binding of Isaac, Pokemon and EarthBound.  
 
 [Demo video ](https://youtu.be/3SKd5kvph7A)  
