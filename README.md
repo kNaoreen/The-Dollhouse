@@ -48,3 +48,6 @@ The demo video of this game can be found [here](https://youtu.be/3SKd5kvph7A).
 * All visual assets were created by team members (Naoreen, Rosaline, Liam, Hannah).
 * All music compositions were created by Naoreen. 
 * Sound effects are creative commons licensed, with credits in the AUDIO_CREDIT.txt file.
+
+## Soundtrack
+* You can listen to the original soundtrack pieces [here](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
