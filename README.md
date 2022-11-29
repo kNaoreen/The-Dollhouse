@@ -1,10 +1,16 @@
 # The Dollhouse 🏠
-2D RPG game built using C++ and OpenGL.  
+2D RPG game built for CPSC 427 (Video Game Programming) course at UBC.
+Received jury award for **Best Overall Game** and **Best Visuals** during CPSC 427's 2021W1 offering.  
 Inspired by games such as The Binding of Isaac, Pokemon and EarthBound.  
-Created as part of the CPSC 427 (Video Game Programming) course at the University of British Columbia.  
-Received jury award for Best Game and Best Graphics during CPSC 427's 2021W1 offering.  
-The demo video of this game can be found [here](https://youtu.be/3SKd5kvph7A).  
-You can listen to the original soundtrack pieces [here](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
+
+[Demo video ](https://youtu.be/3SKd5kvph7A).  
+[Original soundtrack composed by Naoreen](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
+
+## Stack & Tools
+C++, OpenGL, SDL
+Visual Studio
+Aseprite for pixel art
+Figma for some UI assets
 
 ## Team Members
 [Rosaline Baek](https://github.com/syeonb)  
