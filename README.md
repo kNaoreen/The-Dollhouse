@@ -9,10 +9,10 @@ Inspired by games such as The Binding of Isaac, Pokemon and EarthBound.
 [Original soundtrack composed by Naoreen](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
 
 ## Stack & Tools
-C++, OpenGL, SDL
-Visual Studio
-Aseprite for pixel art
-Figma for some UI assets
+* C++, OpenGL, SDL
+* Visual Studio
+* Aseprite for pixel art
+* Figma for some UI assets
 
 ## Team Members
 [Rosaline Baek](https://github.com/syeonb)  
