@@ -4,6 +4,7 @@ Inspired by games such as The Binding of Isaac, Pokemon and EarthBound.
 Created as part of the CPSC 427 (Video Game Programming) course at the University of British Columbia.  
 Received jury award for Best Game and Best Graphics during CPSC 427's 2021W1 offering.  
 The demo video of this game can be found [here](https://youtu.be/3SKd5kvph7A).  
+You can listen to the original soundtrack pieces [here](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
 
 ## Team Members
 [Rosaline Baek](https://github.com/syeonb)  
@@ -48,6 +49,3 @@ The demo video of this game can be found [here](https://youtu.be/3SKd5kvph7A).
 * All visual assets were created by team members (Naoreen, Rosaline, Liam, Hannah).
 * All music compositions were created by Naoreen. 
 * Sound effects are creative commons licensed, with credits in the AUDIO_CREDIT.txt file.
-
-## Soundtrack
-* You can listen to the original soundtrack pieces [here](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
