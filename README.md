@@ -6,7 +6,6 @@ Received jury award for **Best Overall Game** and **Best Visuals** during CPSC 4
 Inspired by games such as The Binding of Isaac, Pokemon and EarthBound.  
 
 [Demo video ](https://youtu.be/3SKd5kvph7A)  
-[Original soundtrack composed by Naoreen](https://soundcloud.com/naoreen/sets/the-dollhouse-soundtrack)
 
 ## Stack & Tools
 * C++, OpenGL, SDL
